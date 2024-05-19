@@ -29,10 +29,20 @@ Copyright © 2024 - WordPress Theme by Creative Themes
 Here are some screenshots of the e-shop:
 
 ### Home Page
+![Home Page](screenshots/Home_1.png)
+![Home Page](screenshots/Home_2.png)
+![Home Page](screenshots/Home_3.png)
 
 ### Product Page
+![Product Page](screenshots/Products_1.png)
 
 ### Cart Page
+![Cart Page](screenshots/Checkout_1.png)
 
 ### News Page
+![News Page](screenshots/News_1.png)
 
+### Contact Page
+![Contact Page](screenshots/Contact_1.png)
+![Contact Page](screenshots/Contact_2.png)
+![Contact Page](screenshots/Contact_3.png)
