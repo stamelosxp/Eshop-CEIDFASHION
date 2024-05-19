@@ -1,4 +1,3 @@
-```
 # E-Shop Project
 
 Welcome to my E-Shop project, a fully functional online store built using WordPress, the WooCommerce plugin, and the Gardarobe Starter Site from the Bloksy theme. This repository contains all the necessary files and instructions to set up the project on your local machine or server.
@@ -36,4 +35,4 @@ Here are some screenshots of the e-shop:
 ### Cart Page
 
 ### News Page
-```
+
